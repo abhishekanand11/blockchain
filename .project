@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>blockchain</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>dependencies/bcprov-jdk15on-1.59.jar</name>
+			<type>1</type>
+			<location>/Users/abhanand/Downloads/bcprov-jdk15on-1.59.jar</location>
+		</link>
+		<link>
+			<name>dependencies/gson-2.3.1.jar</name>
+			<type>1</type>
+			<location>/Users/abhanand/Downloads/gson-2.3.1.jar</location>
+		</link>
+	</linkedResources>
+</projectDescription>
